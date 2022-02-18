@@ -119,3 +119,4 @@
 
 2. For database creations, u can find backups and script files in the database folder, just use one of them.
 
+3. Here u can import postman collection via this link => https://www.getpostman.com/collections/1d80fd685a50317435b3
